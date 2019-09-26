@@ -1,0 +1,12 @@
+	
+/**************************************************************************************/
+/*Author	: Rajkanya Saha		*/
+/*Date		: 26-sept-2019		*/
+/*Filename	: search_sort_doubly_circular_list.txt*/
+/*Description	: text file for linear search,bubble sort in doubly circular linked list*/
+/****************************************************************************************/
+
+
+To alloacte memory dynamically for self referential structure pointer to create doubly circular linked list,and then performing adding and deleting entry at the start or middle or end position of the list, and  displaying the list from start to end.Adding feature linear search and bubble sort in this doubly circular linked list.
+
+
