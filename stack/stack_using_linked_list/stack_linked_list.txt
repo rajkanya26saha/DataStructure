@@ -1,0 +1,10 @@
+	
+/******************************************************/
+/*Author	: Rajkanya Saha		*/
+/*Date		: 26-sept-2019		*/
+/*Filename	: stack_linked_list.txt*/
+/*Description	: text file for stack using linked list*/
+/*******************************************************/
+
+
+To implement stack to push ,pop elements and finally display the stack using linked list  method.

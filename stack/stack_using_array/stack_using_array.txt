@@ -1,0 +1,10 @@
+	
+/******************************************************/
+/*Author	: Rajkanya Saha		*/
+/*Date		: 26-sept-2019		*/
+/*Filename	: stack_using_array.txt*/
+/*Description	: text file for stack using array*/
+/******************************************************/
+
+
+To implement stack to push ,pop elements and finally display the stack using array method.
