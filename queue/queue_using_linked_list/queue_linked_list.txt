@@ -1,0 +1,10 @@
+	
+/******************************************************/
+/*Author	: Rajkanya Saha		*/
+/*Date		: 26-sept-2019		*/
+/*Filename	: queue_linked_list.txt*/
+/*Description	: text file for queue linked list*/
+/******************************************************/
+
+
+To implement queue to add ,remove  elements and finally display the queue using linked list method.
