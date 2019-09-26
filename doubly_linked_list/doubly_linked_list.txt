@@ -1,0 +1,10 @@
+	
+/******************************************************/
+/*Author	: Rajkanya Saha		*/
+/*Date		: 26-sept-2019		*/
+/*Filename	: doubly_linked_list.txt*/
+/*Description	: text file for doubly linked list*/
+/******************************************************/
+
+
+To alloacte memory dynamically for self referential structure pointer to create doubly linked list,and then performing adding and deleting entry at the start or middle or end position of the list, and finally displaying the list from start to end.
